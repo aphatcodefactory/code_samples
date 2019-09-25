@@ -3,10 +3,13 @@
 handle it as it's named. ;-)
 
 2) Content of this repository is in chronological order:
-a) final (HTML) project of my "HAK-IT Kolleg" finished end of June 2006
-b) few files from my "private" project of the online voting system "tiere2015" -
+
+2a) final (HTML) project of my "HAK-IT Kolleg" finished end of June 2006
+
+2b) few files from my "private" project of the online voting system "tiere2015" -
 not finished yet
-c) FSWD stands for Full Stack Web Developer and it was one of the last homeworks
+
+2c) FSWD stands for Full Stack Web Developer and it was one of the last homeworks
 in the course, before we started our final projects (in a team of 4 people, each -
 duration: 8.5 days), finished on 14. August 2019.
 
