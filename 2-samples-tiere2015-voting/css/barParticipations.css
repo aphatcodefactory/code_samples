@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+
+#formBarParticipate {
+	display: block;
+	positon: relative;
+	width: 773px;
+	height: auto;
+	margin: auto;
+	border: 0px;
+}
