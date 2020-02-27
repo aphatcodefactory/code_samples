@@ -9,5 +9,5 @@ It also was intended for the society for the prevention of cruelty to animals in
 ONE PRIVATE person, (Klosterneuburg's township included) boycotted, SO THAT'S THE REASON WHY I STOPPED PROGRAMMING, FOR
 THE PRESENT. But I'll continue/reprogram it (in OBJ.O.-PHP).
 
---> project started reprogramming in OO-PHP on 11/02/2020:
-You find it at: https://github.com/aphatcodefactory/aphOvoting
+--> project started reprogramming in OO-PHP on 11/02/2020 -->
+--> on 27/02/2020 moved to: https://github.com/AHaDaHA/aphOvoting
