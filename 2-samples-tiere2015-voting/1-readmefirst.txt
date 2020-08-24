@@ -5,9 +5,5 @@ It was intended to be combined with a charity event: Please open the index.html 
 Originally, it is a php file - I just renamed it to a html file for you for better reading - if your German is at least,
 I would say, B2.
 
-It also was intended for the society for the prevention of cruelty to animals in Klosterneuburg, but the sponsors, except
-ONE PRIVATE person, (Klosterneuburg's township included) boycotted, SO THAT'S THE REASON WHY I STOPPED PROGRAMMING, FOR
-THE PRESENT. But I'll continue/reprogram it (in OBJ.O.-PHP).
-
---> project started reprogramming in OO-PHP on 11/02/2020 -->
---> on 27/02/2020 moved to: https://github.com/AHaDaHA/aphOvoting
+It also was intended for the society for the prevention of cruelty to animals in Klosterneuburg. The reason for working on it,
+were other priorities in my life. But I'll continue/reprogram it (in OBJ.O.-PHP).
